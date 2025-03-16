@@ -1,0 +1,20 @@
+[
+    {
+        "weight": 80.0,
+        "sleep_hours": 8.0,
+        "date": "2025-03-16",
+        "notes": "it was a good day fo rme "
+    },
+    {
+        "weight": 60.0,
+        "sleep_hours": 4.0,
+        "date": "2025-03-10",
+        "notes": "i ate a fish "
+    },
+    {
+        "weight": 55.0,
+        "sleep_hours": 18.0,
+        "date": "2025-03-10",
+        "notes": "i ate a fish "
+    }
+]

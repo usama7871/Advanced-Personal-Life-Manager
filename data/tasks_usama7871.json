@@ -1,0 +1,17 @@
+[
+    {
+        "task": "i want to kill my bad habits like smoking ",
+        "due_date": "2025-03-16",
+        "completed": true
+    },
+    {
+        "task": "homework",
+        "due_date": "2025-03-20",
+        "completed": true
+    },
+    {
+        "task": "kill biden ",
+        "due_date": "2025-03-30",
+        "completed": true
+    }
+]

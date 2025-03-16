@@ -1,0 +1,14 @@
+[
+    {
+        "category": "SCHOOL RENT ",
+        "amount": 15000.0,
+        "date": "2025-03-16",
+        "description": "i need to pay rent "
+    },
+    {
+        "category": "BARBER ",
+        "amount": 500.0,
+        "date": "2025-03-16",
+        "description": "i need to pay TO barber \n"
+    }
+]
