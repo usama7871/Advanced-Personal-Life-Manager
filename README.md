@@ -41,27 +41,25 @@
 
 ## Directory Structure
 
-```
-advanced-personal-life-manager/
-├── app.py
-├── requirements.txt
-├── README.md
-├── .gitignore
-├── config/
-│   └── config.yaml
-├── data/
-│   └── users.json
-├── modules/
-│   ├── __init__.py
-│   ├── auth.py
-│   ├── finance.py
-│   ├── health.py
-│   ├── goals.py
-│   └── tasks.py
-└── assets/
-    └── images/
-        └── banner.jpg
-```
+    advanced-personal-life-manager/
+    ├── app.py
+    ├── requirements.txt
+    ├── README.md
+    ├── .gitignore
+    ├── config/
+    │   └── config.yaml
+    ├── data/
+    │   └── users.json
+    ├── modules/
+    │   ├── __init__.py
+    │   ├── auth.py
+    │   ├── finance.py
+    │   ├── health.py
+    │   ├── goals.py
+    │   └── tasks.py
+    └── assets/
+        └── images/
+            └── banner.jpg
 
 ## Installation
 
